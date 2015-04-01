@@ -19,6 +19,9 @@ class TestsController extends AppController {
         public function second_git_test(){
             echo "fine all";
         }
+        public function sthrd_git_test(){
+            echo "fine third";
+        }
 }
 	
 	
