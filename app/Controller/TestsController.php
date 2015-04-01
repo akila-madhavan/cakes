@@ -14,6 +14,7 @@ class TestsController extends AppController {
 	}
         public function git_test(){
             echo "test";
+            echo "my second test on git";
         }
 }
 	
