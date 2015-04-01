@@ -12,6 +12,13 @@ class TestsController extends AppController {
 
 		
 	}
+        public function git_test(){
+            echo "test";
+        }
+        
+        public function second_git_test(){
+            echo "fine all";
+        }
 }
 	
 	
